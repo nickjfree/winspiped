@@ -14,7 +14,7 @@ Building
 
   Requirements 
   
-  1. Visual studio 2013 1024 or 2015.
+  1. Visual studio 2013 or 2015.
   2. Prebuild openssl library on windows. x86 or x64. 
   3. Actvieperl to build openssl on windows.
   
